@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LocalChat</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="error">Error</string>
+    <string name="preference_file_key">preference</string>
+    <string name="account_created">Account created</string>
+    <string name="short_login_data">Password or login to short</string>
+    <string name="account_exist">Account exist.</string>
+    <string name="logout">Logout</string>
+    <string name="delete_account">Delete account</string>
+</resources>
